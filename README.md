@@ -35,27 +35,27 @@
 
 ## 五、**功能结构**
 
-![img](file:///C:\Users\hfmx\AppData\Local\Temp\ksohtml61104\wps1.jpg) 
+![img](https://github.com/UserXiaohu/sales_analysis/blob/main/img/wps1.jpg) 
 
-![img](file:///C:\Users\hfmx\AppData\Local\Temp\ksohtml61104\wps2.jpg) 
+![img](https://github.com/UserXiaohu/sales_analysis/blob/main/img/wps2.jpg) 
 
 ## 六、**运行截图**
 
-![img](file:///C:\Users\hfmx\AppData\Local\Temp\ksohtml61104\wps3.jpg) 
+![img](https://github.com/UserXiaohu/sales_analysis/blob/main/img/wps3.jpg) 
 
-![img](file:///C:\Users\hfmx\AppData\Local\Temp\ksohtml61104\wps4.jpg) 
+![img](https://github.com/UserXiaohu/sales_analysis/blob/main/img/wps4.jpg) 
 
-![img](file:///C:\Users\hfmx\AppData\Local\Temp\ksohtml61104\wps5.jpg) 
+![img](https://github.com/UserXiaohu/sales_analysis/blob/main/img/wps5.jpg) 
 
-![img](file:///C:\Users\hfmx\AppData\Local\Temp\ksohtml61104\wps6.jpg) 
+![img](https://github.com/UserXiaohu/sales_analysis/blob/main/img/wps6.jpg) 
 
-![img](file:///C:\Users\hfmx\AppData\Local\Temp\ksohtml61104\wps7.jpg) 
+![img](https://github.com/UserXiaohu/sales_analysis/blob/main/img/wps7.jpg) 
 
-![img](file:///C:\Users\hfmx\AppData\Local\Temp\ksohtml61104\wps8.jpg) 
+![img](https://github.com/UserXiaohu/sales_analysis/blob/main/img/wps8.jpg) 
 
-![img](file:///C:\Users\hfmx\AppData\Local\Temp\ksohtml61104\wps9.jpg) 
+![img](https://github.com/UserXiaohu/sales_analysis/blob/main/img/wps9.jpg) 
 
-![img](file:///C:\Users\hfmx\AppData\Local\Temp\ksohtml61104\wps10.jpg) 
+![img](https://github.com/UserXiaohu/sales_analysis/blob/main/img/wps10.jpg) 
 
 ## 七、**数据库设计**
 
