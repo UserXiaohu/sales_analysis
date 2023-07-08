@@ -11,7 +11,7 @@
 
 ## 二、**项目获取**
 
-项目下载地址：http://www.shiyuncode.com/details?id=48
+项目下载地址：https://shiyuncode.com/details?goodsCode=C00048
 
 ## 三、**开发环境**
 
